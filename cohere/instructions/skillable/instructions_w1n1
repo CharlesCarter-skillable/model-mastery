@@ -63,6 +63,9 @@ You'll work through five notebooks: verify, build, trace, evaluate, and red-team
 
 1. [] Confirm each cell prints a reasonable output and/or a sensible reply from the model.
 
+	![mfyt53vz.png](images/mfyt53vz.png)
+	![w56l55if.png](images/w56l55if.png)
+
 	>[!note] Look for something like this:
 ![hohcz8ot.png](images/hohcz8ot.png)  
 If a cell fails with an authentication error, return to the welcome page and run `az login` again.
