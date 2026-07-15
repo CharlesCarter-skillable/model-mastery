@@ -15,7 +15,7 @@ the desktop.
 1. [] On the desktop, select the **Visual Studio Code** icon to open it.
 1. [] Confirm the file explorer on the left shows the **Cohere** project, with folders named **lab-1-foundry-maf** and **lab-2-cohere-capabilities**.
 
-    !IMAGE[di4lbyfn.png](instructions347670/di4lbyfn.png)
+    !IMAGE[di4lbyfn.png](images/di4lbyfn.png)
 
 	>[!Hint] If VS Code opens but does not show those folders, open the project folder manually:
     - Select **File** then **Open Folder**.
