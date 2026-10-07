@@ -17,7 +17,7 @@ The content is intended for learners comfortable with Python, terminals, and clo
 
 | # | Experience | Focus | Status | Start here |
 |---|---|---|---|---|
-| 1 | **Anthropic on Foundry** | Claude family deep dive | ☑️ WIP | [`anthropic/`](./anthropic/) |
+| 1 | **Anthropic on Foundry** | Claude family deep dive | ✅ Ready | [`anthropic/`](./anthropic/) |
 | 2 | **Cohere on Foundry** | Command A, Embed v4, Rerank v4 deep dive | ✅ Ready | [`cohere/README.md`](./cohere/README.md) |
 | 3 | **Model router on Foundry Models** | End-to-end optimization and routing on Foundry | ✅ Ready | [`foundry/model-router`](./foundry/model-router) |
 | 4 | **Agent builder on Foundry Models** | From Model Selection to Agent Optimization on Foundry | ✅ Ready | [`foundry/agent-builder`](./foundry/agent-builder) |
