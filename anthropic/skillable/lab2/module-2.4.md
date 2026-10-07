@@ -21,7 +21,12 @@ az login
 'az login' opens a sign-in window, and it can open behind VS Code. If nothing
 seems to happen, make the VS Code window smaller and look for it. Choose
 **Work or school account** and sign in with the same workshop account as in
-Module 1.0. A second window follows, and it can hide behind VS Code too. If
+Module 1.0:
+
+   **Username**: `@lab.CloudPortalCredential(User1).Username`  
+   **Access Pass**: `@lab.CloudPortalCredential(User1).AccessToken`
+
+A second window follows, and it can hide behind VS Code too. If
 the terminal then asks you to select a subscription, press Enter to keep the
 default.
 
