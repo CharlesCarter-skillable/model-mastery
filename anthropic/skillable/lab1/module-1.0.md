@@ -4,6 +4,10 @@ No code in this module. You will find Claude in Foundry, talk to it, and
 change how it behaves with a system prompt.
 
 ### Sign in
+1. Sign in to the virtual machine with the following credentials:
+   
+   **Username**: `@lab.VirtualMachine(Windows11).Username`  
+   **Password**: `@lab.VirtualMachine(Windows11).Password`
 
 1. Open **Microsoft Edge** from the Windows taskbar.
 2. Go to `https://ai.azure.com` and sign in with the workshop account:
